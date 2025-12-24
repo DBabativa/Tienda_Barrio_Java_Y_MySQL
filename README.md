@@ -54,5 +54,5 @@ Además, el sistema incluye un **algoritmo de promociones aleatorias** que aplic
 
 ---
 
-## 🧱 Estructura del Proyecto
+
 
