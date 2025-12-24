@@ -1,19 +1,19 @@
 # Tienda de Barrio Java Y MySQL.
-# 🛍️ Sistema de Gestión de Tienda Virtual con Múltiples Perfiles de Usuario
+# Sistema de Gestión de Tienda Virtual con Múltiples Perfiles de Usuario
 
 Proyecto académico desarrollado por **David Santiago Babativa** e **Isaac Pachón Lugo**  
-📍 Escuela Tecnológica Instituto Técnico Central – TS5A  
-👨‍🏫 Asesores: Iván Méndez y Celio Gil
+ Escuela Tecnológica Instituto Técnico Central – TS5A  
+ Asesores: Iván Méndez y Celio Gil
 
 ---
 
-## 📘 Descripción General
+##  Descripción General
 
 Este proyecto consiste en una **tienda digital funcional** desarrollada en **Apache NetBeans (Java)** con conexión a **MySQL**, orientada a la gestión de productos, compras, facturación y control tributario.
 
 El sistema está diseñado bajo un esquema de **múltiples perfiles de usuario**, que permiten una administración integral y segura de los datos.
 
-### 👤 Perfiles del sistema
+### Perfiles del sistema
 - **Comprador:** realiza compras, genera facturas y visualiza su historial.
 - **Administrador:** gestiona productos, inventario y registros de ventas.
 - **Tributario:** consulta y gestiona los cálculos de IVA, retefuente e ICA.
@@ -22,7 +22,7 @@ Además, el sistema incluye un **algoritmo de promociones aleatorias** que aplic
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Lenguaje principal:** Java (NetBeans IDE)
 - **Base de datos:** MySQL (phpMyAdmin / XAMPP)
@@ -32,7 +32,7 @@ Además, el sistema incluye un **algoritmo de promociones aleatorias** que aplic
 
 ---
 
-## 🧩 Funcionalidades Principales
+##  Funcionalidades Principales
 
 - Sistema de autenticación con control de roles.  
 - Registro, consulta, actualización y eliminación de productos.  
@@ -44,7 +44,7 @@ Además, el sistema incluye un **algoritmo de promociones aleatorias** que aplic
 
 ---
 
-## 🧮 Resultados y Pruebas
+##  Resultados y Pruebas
 
 - Implementación exitosa de tres perfiles de usuario funcionales.  
 - Base de datos local estable con relaciones definidas.  
